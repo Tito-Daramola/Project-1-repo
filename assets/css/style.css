@@ -1,3 +1,9 @@
+/* google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+
 /* .btn {
     box-shadow:
         -10px 10px 7px 20px rgba(142, 158, 204, 0.75),
@@ -8,25 +14,38 @@
     margin-left: 50px;
 } */
 
+body {
+    background-color:#EEFCF9
+    font-family: 'Funnel Sans', sans-serif;
+}
+
+
 .btn{
     color: black;
     background-color:rgba(142, 158, 204, 0.75);
     border-color: black;
 }
 
-body {
-    background-color:#EEFCF9 ;
+.btn:hover {
+    color: black;
+    background-color:rgba(184, 146, 255, 0.75);
+    border-color: black;
 }
 
-.navbar {
+.navbar, footer {
     background-color: grey;
     color: rgba(142, 158, 204, 0.75);
 }
 
 .div {
-    box box-shadow: 0px 0px 7px 15px rgba(142, 158, 204, 0.75);
+    box-shadow:
+        0px 0px 10px 15px rgba(255, 169, 31, 0.75);
 }
 
 .intro {
     margin-top: 160px ;
+}
+
+footer {
+
 }
