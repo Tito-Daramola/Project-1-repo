@@ -15,10 +15,9 @@
 } */
 
 body {
-    background-color:#EEFCF9
-    font-family: 'Funnel Sans', sans-serif;
+    background-color:#EEFCF9;
+    font-family:'Funnel Sans', sans-serif;
 }
-
 
 .btn{
     color: black;
@@ -39,13 +38,9 @@ body {
 
 .div {
     box-shadow:
-        0px 0px 10px 15px rgba(255, 169, 31, 0.75);
+        0px 0px 10px 25px rgba(255, 169, 31, 0.75);
 }
 
 .intro {
     margin-top: 160px ;
-}
-
-footer {
-
 }
