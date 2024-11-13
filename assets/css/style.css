@@ -1,0 +1,32 @@
+/* .btn {
+    box-shadow:
+        -10px 10px 7px 20px rgba(142, 158, 204, 0.75),
+        10px -10px 7px 20px rgba(255, 169, 31, 0.75),
+        10px 10px 7px 20px rgba(184, 146, 255, 0.75);
+
+    margin-top: 50px;
+    margin-left: 50px;
+} */
+
+.btn{
+    color: black;
+    background-color:rgba(142, 158, 204, 0.75);
+    border-color: black;
+}
+
+body {
+    background-color:#EEFCF9 ;
+}
+
+.navbar {
+    background-color: grey;
+    color: rgba(142, 158, 204, 0.75);
+}
+
+.div {
+    box box-shadow: 0px 0px 7px 15px rgba(142, 158, 204, 0.75);
+}
+
+.intro {
+    margin-top: 160px ;
+}
